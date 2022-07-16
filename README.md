@@ -1,4 +1,4 @@
-## Hi there 👋, I'm JavaScript fullstack developer with solid 3d artist background.
+## Hi there 👋, I'm JavaScript fullstack developer with reliable 3d artist background.
 
 <br>
 
