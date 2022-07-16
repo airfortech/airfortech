@@ -4,7 +4,7 @@
 
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 
-**Rank:** 3 kyu
+**Rank:** 3 kyu (Top 1.786%)
 
 **Total Completed Kata:** 311
 
